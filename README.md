@@ -8,4 +8,5 @@ OpenBCI 3D-printable EEG headset files
 - New design coming soon (exp. Dec 2014)!
 
 Version 1 - December 2013
+
 Version 2 - April 2014
