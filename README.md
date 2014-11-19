@@ -10,3 +10,7 @@ OpenBCI 3D-printable EEG headset files
 Version 1 - December 2013
 
 Version 2 - April 2014
+
+For V2 we used the following screws to fasten the OpenBCI board to the Spiderclaw: http://www.mcmaster.com/#99461a282/=unyhey
+
+The holes on the V3 board are slightly bigger, so a larger screw may work better.
